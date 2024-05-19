@@ -1,0 +1,5 @@
+train: /character_localization/data/images/train
+val: /character_localization/data/images/train
+
+nc: 1
+names: ['character']
